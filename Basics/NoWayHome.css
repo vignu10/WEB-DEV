@@ -1,0 +1,44 @@
+
+body{
+	background-image: radial-gradient(#0056d6,#f7f7f7,#00bac8,#9dd9be);
+}
+
+
+#sinistersix{
+	background: grey;
+	border: 3px solid rgb(119, 0, 255);
+	padding: 13px 13px 13px 13px;
+}
+
+#Intro
+{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	background: grey;
+	margin: 10px auto;
+	box-shadow: 0 0 5px rgba(206, 73, 73, 0.822);
+    border-radius: 10px;
+	padding: 13px 13px 13px 13px;
+}
+
+.movie{
+	color: white;
+	background: grey;
+	padding-left: 14px;
+}
+
+#sinistersix+p{
+	color: white;
+	margin: 10px auto;
+}
+h1{
+	text-align: center;
+}
+h1:hover{
+	background-color: green;
+	color: aliceblue;
+    cursor: crosshair;
+	
+
+}
+
